@@ -14,3 +14,7 @@ function dob() {
     console.log(`Dob is ${dob}`);
     console.log("Hello!");
 }
+
+function logUser() {
+    console.log("you Are Mantu Kumar Morya");
+}
