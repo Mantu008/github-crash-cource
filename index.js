@@ -12,4 +12,5 @@ function isAbove18() {
 
 function dob() {
     console.log(`Dob is ${dob}`);
+    console.log("Hello!");
 }
