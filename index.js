@@ -9,3 +9,7 @@ function sayName() {
 function isAbove18() {
     return age >= 18;
 }
+
+function dob() {
+    console.log(`Dob is ${dob}`);
+}
