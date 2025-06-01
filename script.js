@@ -9,3 +9,7 @@ function solveBug1() {
 function solveBug2() {
     console.log("Bug-2 Solve");
 }
+
+function solveBug3() {
+    console.log("Bug-3 Solve");
+}
